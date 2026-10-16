@@ -46,7 +46,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 5. Restate progress each turn ("step 3 of 5 done").
 6. Give time estimates in concrete units, never "a bit".
 7. After a change, show what now works.
-8. Errors: state location, cause, and fix. No drama.
+8. Errors: state location, evidence-supported cause, and fix. If the cause is uncertain, say what is known and give the smallest diagnostic next step. No drama.
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
 
@@ -221,7 +221,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 5. Restate progress each turn ("step 3 of 5 done").
 6. Give time estimates in concrete units, never "a bit".
 7. After a change, show what now works.
-8. Errors: state location, cause, and fix. No drama.
+8. Errors: state location, evidence-supported cause, and fix. If the cause is uncertain, say what is known and give the smallest diagnostic next step. No drama.
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
 
@@ -284,7 +284,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 5. Restate progress each turn ("step 3 of 5 done").
 6. Give time estimates in concrete units, never "a bit".
 7. After a change, show what now works.
-8. Errors: state location, cause, and fix. No drama.
+8. Errors: state location, evidence-supported cause, and fix. If the cause is uncertain, say what is known and give the smallest diagnostic next step. No drama.
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
 
@@ -406,7 +406,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 5. Restate progress each turn ("step 3 of 5 done").
 6. Give time estimates in concrete units, never "a bit".
 7. After a change, show what now works.
-8. Errors: state location, cause, and fix. No drama.
+8. Errors: state location, evidence-supported cause, and fix. If the cause is uncertain, say what is known and give the smallest diagnostic next step. No drama.
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
 
@@ -471,7 +471,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 5. Restate progress each turn ("step 3 of 5 done").
 6. Give time estimates in concrete units, never "a bit".
 7. After a change, show what now works.
-8. Errors: state location, cause, and fix. No drama.
+8. Errors: state location, evidence-supported cause, and fix. If the cause is uncertain, say what is known and give the smallest diagnostic next step. No drama.
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
 
@@ -784,7 +784,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 5. Restate progress each turn ("step 3 of 5 done").
 6. Give time estimates in concrete units, never "a bit".
 7. After a change, show what now works.
-8. Errors: state location, cause, and fix. No drama.
+8. Errors: state location, evidence-supported cause, and fix. If the cause is uncertain, say what is known and give the smallest diagnostic next step. No drama.
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
 
@@ -854,7 +854,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 5. Restate progress each turn ("step 3 of 5 done").
 6. Give time estimates in concrete units, never "a bit".
 7. After a change, show what now works.
-8. Errors: state location, cause, and fix. No drama.
+8. Errors: state location, evidence-supported cause, and fix. If the cause is uncertain, say what is known and give the smallest diagnostic next step. No drama.
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
 

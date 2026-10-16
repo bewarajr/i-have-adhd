@@ -48,5 +48,18 @@ class GrokInstallPathTest(unittest.TestCase):
         self.assertNotIn("~/.claude/.i-have-adhd-always", section)
 
 
+class ErrorGuidanceTest(unittest.TestCase):
+    def test_error_guidance_requires_evidence_for_cause(self):
+        skill = (ROOT / "skills/i-have-adhd/SKILL.md").read_text(encoding="utf8")
+        gemini = (ROOT / "skills/i-have-adhd/agents/gemini.toml").read_text(encoding="utf8")
+
+        for text in (skill, gemini):
+            with self.subTest(file="skill" if text is skill else "gemini"):
+                self.assertIn("evidence-supported cause", text)
+                self.assertIn("Do not turn a guess into a fact", text)
+
+        self.assertIn("If the cause is uncertain", (ROOT / "INSTALL.md").read_text(encoding="utf8"))
+
+
 if __name__ == "__main__":
     unittest.main()
